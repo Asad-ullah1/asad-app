@@ -39,4 +39,4 @@ jobs:
       run: npm install -g surge
       
     - name: deploying on surge
-      run: surge ./build http://http://four-bubble.surge.sh/ --token ${{secrets.ASAD_TOKEN}}
+      run: surge ./build http://gifted-push.surge.sh/ --token ${{secrets.ASAD_TOKEN}}

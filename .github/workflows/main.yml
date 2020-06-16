@@ -1,14 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Asad-ullah1
-Code Issues 0 Pull requests 1 Projects 0 Actions Wiki Security 0 Pulse Community
-assignment3/.github/workflows/auto_deploy.yml
-@muhammadshariqghouri muhammadshariqghouri Update auto_deploy.yml ce0d0aa 3 days ago
-42 lines (34 sloc) 1.2 KB
 # This is a basic workflow to help you get started with Actions
 
 name: CI
